@@ -22,9 +22,19 @@ TPU filament for 3D printing the ball shell
 Internal rotating mechanism with magnets/coils (for electromagnetic induction)
 
 Energy harvesting circuitry (rectifier, capacitor, battery/storage)
-
-Bearings or similar to enable smooth rotation inside the shell
-
-Arduino or microcontroller (optional) for monitoring voltage/current
-
 USB or other output port for power extraction
+
+🤝 Teamwork
+This project was built through strong teamwork and collaboration. Each team member contributed to specific aspects, from hardware setup and AI training to wearable design and testing.
+
+Team Members:
+[Abdelrahman Waleed] –
+
+[George Nader] – 
+
+
+
+
+
+
+
